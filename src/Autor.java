@@ -1,5 +1,5 @@
 public class Autor extends Pessoa {
-    private String biografia;
+    private String biografia;/frfrfrf
 
     public Autor(String nome, String email, String biografia) {
         super(nome, email);
